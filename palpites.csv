@@ -1,0 +1,455 @@
+Participante,Jogo,Gols_Casa_Palpite,Gols_Fora_Palpite
+Lucas,República Tcheca x África do Sul,2,1
+Lucas,México x Coreia do Sul,1,1
+Lucas,República Tcheca x México,0,2
+Lucas,África do Sul x Coreia do Sul,0,1
+Lucas,Suíça x Bósnia e Herzegovina,1,0
+Lucas,Canadá x Catar,1,0
+Lucas,Suíça x Canadá,2,1
+Lucas,Bósnia e Herzegovina x Catar,0,0
+Lucas,Escócia x Marrocos,0,2
+Lucas,Brasil x Haiti,3,0
+Lucas,Escócia x Brasil,0,2
+Lucas,Marrocos x Haiti,3,0
+Lucas,Turquia x Paraguai,1,0
+Lucas,Estados Unidos x Austrália,2,0
+Lucas,Turquia x Estados Unidos,0,2
+Lucas,Paraguai x Austrália,1,1
+Lucas,Alemanha x Costa do Marfim,3,1
+Lucas,Equador x Curaçao,3,0
+Lucas,Equador x Alemanha,1,2
+Lucas,Curaçao x Costa do Marfim,0,3
+Lucas,Tunísia x Japão,0,2
+Lucas,Holanda x Suécia,3,2
+Lucas,Japão x Suécia,2,2
+Lucas,Tunísia x Holanda,0,4
+Lucas,Bélgica x Irã,3,1
+Lucas,Nova Zelândia x Egito,0,1
+Lucas,Egito x Irã,2,0
+Lucas,Nova Zelândia x Bélgica,1,2
+Lucas,Espanha x Arábia Saudita,2,0
+Lucas,Uruguai x Cabo Verde,3,0
+Lucas,Cabo Verde x Arábia Saudita,0,1
+Lucas,Uruguai x Espanha,1,4
+Lucas,França x Senegal,4,0
+Lucas,Iraque x Noruega,0,1
+Lucas,França x Iraque,3,0
+Lucas,Noruega x Senegal,1,1
+Lucas,Noruega x França,0,2
+Lucas,Senegal x Iraque,1,1
+Lucas,Áustria x Jordânia,1,0
+Lucas,Argentina x Argélia,2,1
+Lucas,Argentina x Áustria,2,0
+Lucas,Jordânia x Argélia,0,0
+Lucas,Argélia x Áustria,1,1
+Lucas,Jordânia x Argentina,0,3
+Lucas,Portugal x Congo RD,4,0
+Lucas,Uzbequistão x Colômbia,0,3
+Lucas,Colômbia x Portugal,1,3
+Lucas,Congo RD x Uzbequistão,1,1
+Lucas,Congo RD x Colômbia,0,2
+Lucas,Uzbequistão x Portugal,0,3
+Lucas,Inglaterra x Croácia,2,1
+Lucas,Gana x Panamá,1,1
+Lucas,Inglaterra x Gana,3,0
+Lucas,Panamá x Croácia,1,2
+Lucas,Croácia x Gana,3,1
+Lucas,Panamá x Inglaterra,0,4
+
+Josefa,República Tcheca x África do Sul,2,1
+Josefa,México x Coreia do Sul,2,1
+Josefa,República Tcheca x México,2,2
+Josefa,África do Sul x Coreia do Sul,1,1
+Josefa,Suíça x Bósnia e Herzegovina,2,1
+Josefa,Canadá x Catar,2,1
+Josefa,Suíça x Canadá,1,1
+Josefa,Bósnia e Herzegovina x Catar,1,1
+Josefa,Escócia x Marrocos,1,2
+Josefa,Brasil x Haiti,3,1
+Josefa,Escócia x Brasil,1,2
+Josefa,Marrocos x Haiti,2,1
+Josefa,Turquia x Paraguai,1,1
+Josefa,Estados Unidos x Austrália,2,1
+Josefa,Turquia x Estados Unidos,2,3
+Josefa,Paraguai x Austrália,0,1
+Josefa,Alemanha x Costa do Marfim,4,1
+Josefa,Equador x Curaçao,3,1
+Josefa,Equador x Alemanha,1,5
+Josefa,Curaçao x Costa do Marfim,0,2
+Josefa,Tunísia x Japão,2,2
+Josefa,Holanda x Suécia,3,2
+Josefa,Japão x Suécia,3,2
+Josefa,Tunísia x Holanda,1,2
+Josefa,Bélgica x Irã,1,1
+Josefa,Nova Zelândia x Egito,2,2
+Josefa,Egito x Irã,3,1
+Josefa,Nova Zelândia x Bélgica,1,1
+Josefa,Espanha x Arábia Saudita,3,1
+Josefa,Uruguai x Cabo Verde,1,1
+Josefa,Cabo Verde x Arábia Saudita,2,2
+Josefa,Uruguai x Espanha,1,3
+Josefa,França x Senegal,3,1
+Josefa,Iraque x Noruega,1,1
+Josefa,França x Iraque,3,1
+Josefa,Noruega x Senegal,2,2
+Josefa,Noruega x França,1,3
+Josefa,Senegal x Iraque,1,1
+Josefa,Áustria x Jordânia,1,1
+Josefa,Argentina x Argélia,3,1
+Josefa,Argentina x Áustria,2,1
+Josefa,Jordânia x Argélia,1,1
+Josefa,Argélia x Áustria,2,2
+Josefa,Jordânia x Argentina,0,2
+Josefa,Portugal x Congo RD,3,1
+Josefa,Uzbequistão x Colômbia,1,2
+Josefa,Colômbia x Portugal,2,3
+Josefa,Congo RD x Uzbequistão,1,1
+Josefa,Congo RD x Colômbia,1,2
+Josefa,Uzbequistão x Portugal,0,2
+Josefa,Inglaterra x Croácia,2,2
+Josefa,Gana x Panamá,1,1
+Josefa,Inglaterra x Gana,2,1
+Josefa,Panamá x Croácia,1,2
+Josefa,Croácia x Gana,2,1
+Josefa,Panamá x Inglaterra,1,2
+
+Rafael,República Tcheca x África do Sul,3,1
+Rafael,México x Coreia do Sul,2,2
+Rafael,República Tcheca x México,1,2
+Rafael,África do Sul x Coreia do Sul,1,3
+Rafael,Suíça x Bósnia e Herzegovina,0,1
+Rafael,Canadá x Catar,2,1
+Rafael,Suíça x Canadá,2,3
+Rafael,Bósnia e Herzegovina x Catar,3,1
+Rafael,Escócia x Marrocos,0,3
+Rafael,Brasil x Haiti,4,2
+Rafael,Escócia x Brasil,3,5
+Rafael,Marrocos x Haiti,4,3
+Rafael,Turquia x Paraguai,0,1
+Rafael,Estados Unidos x Austrália,2,2
+Rafael,Turquia x Estados Unidos,1,2
+Rafael,Paraguai x Austrália,1,2
+Rafael,Alemanha x Costa do Marfim,3,1
+Rafael,Equador x Curaçao,2,1
+Rafael,Equador x Alemanha,1,4
+Rafael,Curaçao x Costa do Marfim,1,4
+Rafael,Tunísia x Japão,1,3
+Rafael,Holanda x Suécia,4,2
+Rafael,Japão x Suécia,3,1
+Rafael,Tunísia x Holanda,2,4
+Rafael,Bélgica x Irã,2,1
+Rafael,Nova Zelândia x Egito,2,0
+Rafael,Egito x Irã,1,1
+Rafael,Nova Zelândia x Bélgica,1,2
+Rafael,Espanha x Arábia Saudita,2,0
+Rafael,Uruguai x Cabo Verde,2,1
+Rafael,Cabo Verde x Arábia Saudita,2,3
+Rafael,Uruguai x Espanha,3,2
+Rafael,Iraque x Noruega,1,2
+Rafael,França x Iraque,4,0
+Rafael,Noruega x Senegal,1,3
+Rafael,Noruega x França,2,4
+Rafael,Senegal x Iraque,1,0
+Rafael,Áustria x Jordânia,1,1
+Rafael,Argentina x Argélia,4,0
+Rafael,Argentina x Áustria,2,0
+Rafael,Jordânia x Argélia,2,1
+Rafael,Argélia x Áustria,2,2
+Rafael,Jordânia x Argentina,1,3
+Rafael,Portugal x Congo RD,5,2
+Rafael,Uzbequistão x Colômbia,1,2
+Rafael,Colômbia x Portugal,1,3
+Rafael,Congo RD x Uzbequistão,2,1
+Rafael,Congo RD x Colômbia,1,2
+Rafael,Uzbequistão x Portugal,2,4
+Rafael,Inglaterra x Croácia,2,2
+Rafael,Gana x Panamá,2,1
+Rafael,Inglaterra x Gana,3,1
+Rafael,Panamá x Croácia,1,2
+Rafael,Croácia x Gana,2,1
+Rafael,Panamá x Inglaterra,1,3
+
+Erick,República Tcheca x África do Sul,1,0
+Erick,México x Coreia do Sul,1,1
+Erick,República Tcheca x México,2,2
+Erick,África do Sul x Coreia do Sul,0,1
+Erick,Suíça x Bósnia e Herzegovina,1,0
+Erick,Canadá x Catar,1,0
+Erick,Suíça x Canadá,1,1
+Erick,Bósnia e Herzegovina x Catar,1,0
+Erick,Escócia x Marrocos,1,2
+Erick,Brasil x Haiti,2,0
+Erick,Escócia x Brasil,0,2
+Erick,Marrocos x Haiti,2,0
+Erick,Turquia x Paraguai,1,0
+Erick,Estados Unidos x Austrália,2,1
+Erick,Turquia x Estados Unidos,0,2
+Erick,Paraguai x Austrália,1,2
+Erick,Alemanha x Costa do Marfim,2,0
+Erick,Equador x Curaçao,2,0
+Erick,Equador x Alemanha,1,2
+Erick,Curaçao x Costa do Marfim,0,2
+Erick,Tunísia x Japão,1,2
+Erick,Holanda x Suécia,1,1
+Erick,Japão x Suécia,1,1
+Erick,Tunísia x Holanda,0,1
+Erick,Bélgica x Irã,2,1
+Erick,Nova Zelândia x Egito,0,1
+Erick,Egito x Irã,1,0
+Erick,Nova Zelândia x Bélgica,0,2
+Erick,Espanha x Arábia Saudita,2,0
+Erick,Uruguai x Cabo Verde,2,1
+Erick,Cabo Verde x Arábia Saudita,1,1
+Erick,Uruguai x Espanha,1,2
+Erick,França x Senegal,3,0
+Erick,Iraque x Noruega,0,2
+Erick,França x Iraque,3,0
+Erick,Noruega x Senegal,1,1
+Erick,Noruega x França,1,3
+Erick,Senegal x Iraque,1,0
+Erick,Áustria x Jordânia,2,0
+Erick,Argentina x Argélia,2,0
+Erick,Argentina x Áustria,2,0
+Erick,Jordânia x Argélia,0,1
+Erick,Argélia x Áustria,1,1
+Erick,Jordânia x Argentina,0,3
+Erick,Portugal x Congo RD,2,0
+Erick,Uzbequistão x Colômbia,0,2
+Erick,Colômbia x Portugal,1,2
+Erick,Congo RD x Uzbequistão,1,1
+Erick,Congo RD x Colômbia,0,2
+Erick,Uzbequistão x Portugal,0,2
+Erick,Inglaterra x Croácia,2,1
+Erick,Gana x Panamá,1,0
+Erick,Inglaterra x Gana,2,0
+Erick,Panamá x Croácia,0,2
+Erick,Croácia x Gana,2,0
+Erick,Panamá x Inglaterra,0,2
+
+Erika,República Tcheca x África do Sul,2,1
+Erika,México x Coreia do Sul,1,0
+Erika,República Tcheca x México,2,2
+Erika,África do Sul x Coreia do Sul,2,1
+Erika,Suíça x Bósnia e Herzegovina,2,0
+Erika,Canadá x Catar,3,0
+Erika,Suíça x Canadá,1,1
+Erika,Bósnia e Herzegovina x Catar,2,1
+Erika,Escócia x Marrocos,0,2
+Erika,Brasil x Haiti,4,0
+Erika,Escócia x Brasil,0,2
+Erika,Marrocos x Haiti,3,0
+Erika,Turquia x Paraguai,1,1
+Erika,Estados Unidos x Austrália,3,1
+Erika,Turquia x Estados Unidos,1,1
+Erika,Paraguai x Austrália,1,0
+Erika,Alemanha x Costa do Marfim,2,0
+Erika,Equador x Curaçao,3,0
+Erika,Equador x Alemanha,1,2
+Erika,Curaçao x Costa do Marfim,0,3
+Erika,Tunísia x Japão,0,2
+Erika,Holanda x Suécia,2,0
+Erika,Japão x Suécia,1,1
+Erika,Tunísia x Holanda,0,2
+Erika,Bélgica x Irã,2,1
+Erika,Nova Zelândia x Egito,0,2
+Erika,Egito x Irã,1,1
+Erika,Nova Zelândia x Bélgica,0,3
+Erika,Espanha x Arábia Saudita,2,0
+Erika,Uruguai x Cabo Verde,2,0
+Erika,Cabo Verde x Arábia Saudita,1,1
+Erika,Uruguai x Espanha,1,1
+Erika,França x Senegal,2,1
+Erika,Iraque x Noruega,0,3
+Erika,França x Iraque,4,0
+Erika,Noruega x Senegal,1,1
+Erika,Noruega x França,1,2
+Erika,Senegal x Iraque,2,0
+Erika,Áustria x Jordânia,3,0
+Erika,Argentina x Argélia,2,0
+Erika,Argentina x Áustria,2,1
+Erika,Jordânia x Argélia,0,2
+Erika,Argélia x Áustria,1,2
+Erika,Jordânia x Argentina,0,3
+Erika,Portugal x Congo RD,3,0
+Erika,Uzbequistão x Colômbia,0,2
+Erika,Colômbia x Portugal,1,2
+Erika,Congo RD x Uzbequistão,1,1
+Erika,Congo RD x Colômbia,0,2
+Erika,Uzbequistão x Portugal,0,3
+Erika,Inglaterra x Croácia,2,1
+Erika,Gana x Panamá,2,0
+Erika,Inglaterra x Gana,2,0
+Erika,Panamá x Croácia,0,2
+Erika,Croácia x Gana,1,1
+Erika,Panamá x Inglaterra,0,3
+
+Léo,República Tcheca x África do Sul,2,1
+Léo,México x Coreia do Sul,2,0
+Léo,República Tcheca x México,1,2
+Léo,África do Sul x Coreia do Sul,1,1
+Léo,Suíça x Bósnia e Herzegovina,1,1
+Léo,Canadá x Catar,0,2
+Léo,Suíça x Canadá,1,1
+Léo,Bósnia e Herzegovina x Catar,2,1
+Léo,Escócia x Marrocos,1,3
+Léo,Brasil x Haiti,3,0
+Léo,Escócia x Brasil,1,1
+Léo,Marrocos x Haiti,3,0
+Léo,Turquia x Paraguai,1,2
+Léo,Estados Unidos x Austrália,2,1
+Léo,Turquia x Estados Unidos,1,1
+Léo,Paraguai x Austrália,1,0
+Léo,Alemanha x Costa do Marfim,3,1
+Léo,Equador x Curaçao,2,0
+Léo,Equador x Alemanha,1,3
+Léo,Curaçao x Costa do Marfim,1,1
+Léo,Tunísia x Japão,1,2
+Léo,Holanda x Suécia,3,1
+Léo,Japão x Suécia,1,1
+Léo,Tunísia x Holanda,0,2
+Léo,Bélgica x Irã,2,1
+Léo,Nova Zelândia x Egito,0,1
+Léo,Egito x Irã,2,0
+Léo,Nova Zelândia x Bélgica,1,1
+Léo,Espanha x Arábia Saudita,4,0
+Léo,Uruguai x Cabo Verde,3,0
+Léo,Cabo Verde x Arábia Saudita,1,2
+Léo,Uruguai x Espanha,1,3
+Léo,França x Senegal,3,1
+Léo,Iraque x Noruega,1,3
+Léo,França x Iraque,3,0
+Léo,Noruega x Senegal,1,1
+Léo,Noruega x França,2,3
+Léo,Senegal x Iraque,2,0
+Léo,Áustria x Jordânia,2,0
+Léo,Argentina x Argélia,4,0
+Léo,Argentina x Áustria,3,1
+Léo,Jordânia x Argélia,1,1
+Léo,Argélia x Áustria,1,3
+Léo,Jordânia x Argentina,0,3
+Léo,Portugal x Congo RD,3,0
+Léo,Uzbequistão x Colômbia,1,2
+Léo,Colômbia x Portugal,1,2
+Léo,Congo RD x Uzbequistão,2,1
+Léo,Congo RD x Colômbia,1,1
+Léo,Uzbequistão x Portugal,0,4
+Léo,Inglaterra x Croácia,1,2
+Léo,Gana x Panamá,1,1
+Léo,Inglaterra x Gana,3,0
+Léo,Panamá x Croácia,1,2
+Léo,Croácia x Gana,2,1
+Léo,Panamá x Inglaterra,0,3
+
+Tel,República Tcheca x África do Sul,1,0
+Tel,México x Coreia do Sul,1,2
+Tel,República Tcheca x México,0,1
+Tel,África do Sul x Coreia do Sul,0,1
+Tel,Suíça x Bósnia e Herzegovina,1,0
+Tel,Canadá x Catar,1,0
+Tel,Suíça x Canadá,1,0
+Tel,Bósnia e Herzegovina x Catar,2,0
+Tel,Escócia x Marrocos,0,2
+Tel,Brasil x Haiti,3,0
+Tel,Escócia x Brasil,0,2
+Tel,Marrocos x Haiti,2,0
+Tel,Turquia x Paraguai,1,0
+Tel,Estados Unidos x Austrália,2,0
+Tel,Turquia x Estados Unidos,0,1
+Tel,Paraguai x Austrália,1,0
+Tel,Alemanha x Costa do Marfim,3,1
+Tel,Equador x Curaçao,2,0
+Tel,Equador x Alemanha,0,2
+Tel,Curaçao x Costa do Marfim,0,2
+Tel,Tunísia x Japão,0,3
+Tel,Holanda x Suécia,1,1
+Tel,Japão x Suécia,1,2
+Tel,Tunísia x Holanda,0,2
+Tel,Bélgica x Irã,2,0
+Tel,Nova Zelândia x Egito,0,2
+Tel,Egito x Irã,2,0
+Tel,Nova Zelândia x Bélgica,0,2
+Tel,Espanha x Arábia Saudita,2,0
+Tel,Uruguai x Cabo Verde,2,0
+Tel,Cabo Verde x Arábia Saudita,0,1
+Tel,Uruguai x Espanha,1,2
+Tel,França x Senegal,4,0
+Tel,Iraque x Noruega,0,2
+Tel,França x Iraque,3,0
+Tel,Noruega x Senegal,1,1
+Tel,Noruega x França,0,2
+Tel,Senegal x Iraque,2,0
+Tel,Áustria x Jordânia,1,0
+Tel,Argentina x Argélia,3,0
+Tel,Argentina x Áustria,2,0
+Tel,Jordânia x Argélia,1,1
+Tel,Argélia x Áustria,0,1
+Tel,Jordânia x Argentina,0,3
+Tel,Portugal x Congo RD,3,0
+Tel,Uzbequistão x Colômbia,0,1
+Tel,Colômbia x Portugal,1,2
+Tel,Congo RD x Uzbequistão,1,1
+Tel,Congo RD x Colômbia,0,2
+Tel,Uzbequistão x Portugal,0,2
+Tel,Inglaterra x Croácia,3,0
+Tel,Gana x Panamá,1,0
+Tel,Inglaterra x Gana,2,0
+Tel,Panamá x Croácia,0,2
+Tel,Croácia x Gana,2,1
+Tel,Panamá x Inglaterra,0,3
+
+Matheus,República Tcheca x África do Sul,1,0
+Matheus,México x Coreia do Sul,2,2
+Matheus,República Tcheca x México,1,2
+Matheus,África do Sul x Coreia do Sul,0,2
+Matheus,Suíça x Bósnia e Herzegovina,1,1
+Matheus,Canadá x Catar,2,0
+Matheus,Suíça x Canadá,2,1
+Matheus,Bósnia e Herzegovina x Catar,2,0
+Matheus,Escócia x Marrocos,1,3
+Matheus,Brasil x Haiti,4,0
+Matheus,Escócia x Brasil,0,2
+Matheus,Marrocos x Haiti,3,0
+Matheus,Turquia x Paraguai,1,1
+Matheus,Estados Unidos x Austrália,2,1
+Matheus,Turquia x Estados Unidos,0,2
+Matheus,Paraguai x Austrália,1,1
+Matheus,Alemanha x Costa do Marfim,1,1
+Matheus,Equador x Curaçao,2,0
+Matheus,Equador x Alemanha,0,2
+Matheus,Curaçao x Costa do Marfim,0,3
+Matheus,Tunísia x Japão,0,3
+Matheus,Holanda x Suécia,1,0
+Matheus,Japão x Suécia,1,1
+Matheus,Tunísia x Holanda,0,2
+Matheus,Bélgica x Irã,2,0
+Matheus,Nova Zelândia x Egito,0,1
+Matheus,Egito x Irã,1,0
+Matheus,Nova Zelândia x Bélgica,0,2
+Matheus,Espanha x Arábia Saudita,2,0
+Matheus,Uruguai x Cabo Verde,1,0
+Matheus,Cabo Verde x Arábia Saudita,1,1
+Matheus,Uruguai x Espanha,1,2
+Matheus,França x Senegal,3,0
+Matheus,Iraque x Noruega,0,2
+Matheus,França x Iraque,3,0
+Matheus,Noruega x Senegal,1,0
+Matheus,Noruega x França,2,2
+Matheus,Senegal x Iraque,1,0
+Matheus,Áustria x Jordânia,2,1
+Matheus,Argentina x Argélia,2,1
+Matheus,Argentina x Áustria,3,1
+Matheus,Jordânia x Argélia,0,2
+Matheus,Argélia x Áustria,1,0
+Matheus,Jordânia x Argentina,0,3
+Matheus,Portugal x Congo RD,2,0
+Matheus,Uzbequistão x Colômbia,1,3
+Matheus,Colômbia x Portugal,1,2
+Matheus,Congo RD x Uzbequistão,1,0
+Matheus,Congo RD x Colômbia,0,2
+Matheus,Uzbequistão x Portugal,0,3
+Matheus,Inglaterra x Croácia,2,1
+Matheus,Gana x Panamá,2,0
+Matheus,Inglaterra x Gana,2,1
+Matheus,Panamá x Croácia,0,1
+Matheus,Croácia x Gana,1,1
+Matheus,Panamá x Inglaterra,0,4
