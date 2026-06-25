@@ -4,9 +4,84 @@ import requests
 
 # Dicionário para traduzir os nomes da API (em inglês) para os do seu CSV
 TRADUCAO_TIMES = {
-    "Brazil": "Brasil", "Scotland": "Escócia", "Morocco": "Marrocos", 
-    "USA": "Estados Unidos", "Germany": "Alemanha", "Spain": "Espanha",
-    "France": "França", "England": "Inglaterra", "Netherlands": "Holanda"
+    # Grupo A
+    "Mexico": "México",
+    "South Africa": "África do Sul",
+    "South Korea": "Coreia do Sul",
+    "Korea Republic": "Coreia do Sul",
+    "Czech Republic": "República Tcheca",
+    "Czechia": "República Tcheca",
+    
+    # Grupo B
+    "Canada": "Canadá",
+    "Bosnia": "Bósnia e Herzegovina",
+    "Bosnia & Herzegovina": "Bósnia e Herzegovina",
+    "Bosnia and Herzegovina": "Bósnia e Herzegovina",
+    "Qatar": "Catar",
+    "Switzerland": "Suíça",
+    
+    # Grupo C
+    "Brazil": "Brasil",
+    "Morocco": "Marrocos",
+    "Haiti": "Haiti",
+    "Scotland": "Escócia",
+    
+    # Grupo D
+    "USA": "Estados Unidos",
+    "Paraguay": "Paraguai",
+    "Australia": "Austrália",
+    "Turkey": "Turquia",
+    
+    # Grupo E
+    "Germany": "Alemanha",
+    "Curacao": "Curaçao",
+    "Curaçao": "Curaçao",
+    "Ivory Coast": "Costa do Marfim",
+    "Cote d'Ivoire": "Costa do Marfim",
+    "Ecuador": "Equador",
+    
+    # Grupo F
+    "Netherlands": "Holanda",
+    "Japan": "Japão",
+    "Sweden": "Suécia",
+    "Tunisia": "Tunísia",
+    
+    # Grupo G
+    "Belgium": "Bélgica",
+    "Egypt": "Egito",
+    "Iran": "Irã",
+    "New Zealand": "Nova Zelândia",
+    
+    # Grupo H
+    "Spain": "Espanha",
+    "Cape Verde": "Cabo Verde",
+    "Saudi Arabia": "Arábia Saudita",
+    "Uruguay": "Uruguai",
+    
+    # Grupo I
+    "France": "França",
+    "Senegal": "Senegal",
+    "Iraq": "Iraque",
+    "Norway": "Noruega",
+    
+    # Grupo J
+    "Austria": "Áustria",
+    "Jordan": "Jordânia",
+    "Argentina": "Argentina",
+    "Algeria": "Argélia",
+    
+    # Grupo K
+    "Portugal": "Portugal",
+    "DR Congo": "Congo RD",
+    "Congo DR": "Congo RD",
+    "Uzbekistan": "Uzbequistão",
+    "Colombia": "Colômbia",
+    
+    # Grupo L
+    "England": "Inglaterra",
+    "Croatia": "Croácia",
+    "Ghana": "Gana",
+    "Panama": "Panamá"
 }
 
 @st.cache_data(ttl=300) 
