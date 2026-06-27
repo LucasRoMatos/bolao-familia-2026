@@ -196,7 +196,7 @@ pagina_selecionada = st.sidebar.radio("Navegue por aqui:", ["🏆 Classificaçã
 # Página: CLASSIFICAÇÃO
 if pagina_selecionada == "🏆 Classificação Geral":
     st.title("🏆 Classificação da Copa 2026")
-    st.write("O PEQUENO FOI JOGADOR E NÃO ACERTA UM PLACAR - ASS: ERIKA")
+    st.write("Tel e Erick na disputa da liderança!!")
     
     # Ordenando do maior para o menor
     df_classificacao = df_ranking.sort_values(by="Pontos", ascending=False).reset_index(drop=True)
